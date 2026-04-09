@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 864c625635f7cb34a8366d8d6d75aadb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7943195953177717071
+    second: Yuma__Sneaking_Walk_0
+  - first:
+      213: -8435018924953432888
+    second: Yuma__Sneaking_Walk_1
+  - first:
+      213: 372933589397067842
+    second: Yuma__Sneaking_Walk_2
+  - first:
+      213: 2436610600673640577
+    second: Yuma__Sneaking_Walk_3
+  - first:
+      213: -1946510283758926186
+    second: Yuma__Sneaking_Walk_4
+  - first:
+      213: 5605239289332859933
+    second: Yuma__Sneaking_Walk_5
+  - first:
+      213: 7117359454258783036
+    second: Yuma__Sneaking_Walk_6
+  - first:
+      213: -1059812427862830711
+    second: Yuma__Sneaking_Walk_7
+  - first:
+      213: -4846183482226926830
+    second: Yuma__Sneaking_Walk_8
+  - first:
+      213: 1484549461508866822
+    second: Yuma__Sneaking_Walk_9
+  - first:
+      213: -4110000142942779030
+    second: Yuma__Sneaking_Walk_10
+  - first:
+      213: 2406108028198978556
+    second: Yuma__Sneaking_Walk_11
+  - first:
+      213: 4915619425608569350
+    second: Yuma__Sneaking_Walk_12
+  - first:
+      213: -5907471708930228195
+    second: Yuma__Sneaking_Walk_13
+  - first:
+      213: 3382771145000820787
+    second: Yuma__Sneaking_Walk_14
+  - first:
+      213: -8362714171685127647
+    second: Yuma__Sneaking_Walk_15
+  - first:
+      213: 6540889861786890473
+    second: Yuma__Sneaking_Walk_16
+  - first:
+      213: -7124331983867754447
+    second: Yuma__Sneaking_Walk_17
+  - first:
+      213: -5732253345049677661
+    second: Yuma__Sneaking_Walk_18
+  - first:
+      213: 4618857249342439206
+    second: Yuma__Sneaking_Walk_19
+  - first:
+      213: -5142468213519775551
+    second: Yuma__Sneaking_Walk_20
+  - first:
+      213: 4314161828657647057
+    second: Yuma__Sneaking_Walk_21
+  - first:
+      213: 1886378099718700491
+    second: Yuma__Sneaking_Walk_22
+  - first:
+      213: 5510506539277667104
+    second: Yuma__Sneaking_Walk_23
+  - first:
+      213: 4222152628904890417
+    second: Yuma__Sneaking_Walk_24
+  - first:
+      213: -3100368983013257534
+    second: Yuma__Sneaking_Walk_25
+  - first:
+      213: 5445036883322454450
+    second: Yuma__Sneaking_Walk_26
+  - first:
+      213: 8116462117865618693
+    second: Yuma__Sneaking_Walk_27
+  - first:
+      213: -1752446659711732627
+    second: Yuma__Sneaking_Walk_28
+  - first:
+      213: -5300829188033513906
+    second: Yuma__Sneaking_Walk_29
+  - first:
+      213: 2778319640738114875
+    second: Yuma__Sneaking_Walk_30
+  - first:
+      213: -2608818748845393377
+    second: Yuma__Sneaking_Walk_31
+  - first:
+      213: -5810001156705743076
+    second: Yuma__Sneaking_Walk_32
+  - first:
+      213: 3834664495985794533
+    second: Yuma__Sneaking_Walk_33
+  - first:
+      213: 1661866087132421879
+    second: Yuma__Sneaking_Walk_34
+  - first:
+      213: 7751232972201756188
+    second: Yuma__Sneaking_Walk_35
+  - first:
+      213: 3048180829064822602
+    second: Yuma__Sneaking_Walk_36
+  - first:
+      213: 793270313074515128
+    second: Yuma__Sneaking_Walk_37
+  - first:
+      213: -2446125294812824052
+    second: Yuma__Sneaking_Walk_38
+  - first:
+      213: -9208775511985425215
+    second: Yuma__Sneaking_Walk_39
+  - first:
+      213: 862614301837888571
+    second: Yuma__Sneaking_Walk_40
+  - first:
+      213: -4639931183470202705
+    second: Yuma__Sneaking_Walk_41
+  - first:
+      213: -774977669419524180
+    second: Yuma__Sneaking_Walk_42
+  - first:
+      213: 7081939802402168658
+    second: Yuma__Sneaking_Walk_43
+  - first:
+      213: -3029597424781812766
+    second: Yuma__Sneaking_Walk_44
+  - first:
+      213: 9138899386302921309
+    second: Yuma__Sneaking_Walk_45
+  - first:
+      213: 5943693111097582646
+    second: Yuma__Sneaking_Walk_46
+  - first:
+      213: 5233172188143325477
+    second: Yuma__Sneaking_Walk_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f496a7272a6eb3e60800000000000000
+      internalID: 7943195953177717071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 330
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc04787afac0fa80800000000000000
+      internalID: -8435018924953432888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 330
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d2d8af1dec2500800000000000000
+      internalID: 372933589397067842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 330
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1808a1d7e6490d120800000000000000
+      internalID: 2436610600673640577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 330
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69687e0c53b9cf4e0800000000000000
+      internalID: -1946510283758926186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 330
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d148fb19f6fc9cd40800000000000000
+      internalID: 5605239289332859933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 330
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33ecd9d6b0f5c260800000000000000
+      internalID: 7117359454258783036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98111b4463aca41f0800000000000000
+      internalID: -1059812427862830711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 275
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b9f719cc5eebcb0800000000000000
+      internalID: -4846183482226926830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 275
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603cbb8aedd2a9410800000000000000
+      internalID: 1484549461508866822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 275
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69471d45a856f6c0800000000000000
+      internalID: -4110000142942779030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 275
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf30408e086346120800000000000000
+      internalID: 2406108028198978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 275
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6029862d2d9c73440800000000000000
+      internalID: 4915619425608569350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 275
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d104b84a7c1740ea0800000000000000
+      internalID: -5907471708930228195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33027360f6402fe20800000000000000
+      internalID: 3382771145000820787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a3596b4cba1fb80800000000000000
+      internalID: -8362714171685127647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0f2c69ca8e5ca50800000000000000
+      internalID: 6540889861786890473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 220
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138cb979ec9412d90800000000000000
+      internalID: -7124331983867754447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 220
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f4c514f1f270b0800000000000000
+      internalID: -5732253345049677661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 220
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f3b4f423a791040800000000000000
+      internalID: 4618857249342439206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 220
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c88a60e76842a8b0800000000000000
+      internalID: -5142468213519775551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd40b4635bfedb30800000000000000
+      internalID: 4314161828657647057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 165
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd3fc123e2cd2a10800000000000000
+      internalID: 1886378099718700491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 165
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bcc166080497c40800000000000000
+      internalID: 5510506539277667104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 165
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1309b513279189a30800000000000000
+      internalID: 4222152628904890417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 165
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce0bde16d649f4d0800000000000000
+      internalID: -3100368983013257534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 165
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c5534238a09b40800000000000000
+      internalID: 5445036883322454450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 165
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d7b481b4773a070800000000000000
+      internalID: 8116462117865618693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ff004c0f0ea7e0800000000000000
+      internalID: -1752446659711732627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 110
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e467d3040fbaf66b0800000000000000
+      internalID: -5300829188033513906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 110
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dafaa3ef29e8620800000000000000
+      internalID: 2778319640738114875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 110
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1af0b78b2d9bcbd0800000000000000
+      internalID: -2608818748845393377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 110
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f02fd0bbabe5fa0800000000000000
+      internalID: -5810001156705743076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 110
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed190cca07773530800000000000000
+      internalID: 3834664495985794533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 110
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fedbcbb662201710800000000000000
+      internalID: 1661866087132421879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1681670259e19b60800000000000000
+      internalID: 7751232972201756188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 55
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f709760505d4a20800000000000000
+      internalID: 3048180829064822602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 55
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc5ba59523420b00800000000000000
+      internalID: 793270313074515128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 55
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e7596210e9d0ed0800000000000000
+      internalID: -2446125294812824052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 55
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4fac7467bd33080800000000000000
+      internalID: -9208775511985425215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 55
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c083f132f98fb00800000000000000
+      internalID: 862614301837888571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 55
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0300b0c27ab9fb0800000000000000
+      internalID: -4639931183470202705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf93696ae9be35f0800000000000000
+      internalID: -774977669419524180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f91e28aba184260800000000000000
+      internalID: 7081939802402168658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb11739135b4f5d0800000000000000
+      internalID: -3029597424781812766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5afe966294e3de70800000000000000
+      internalID: 9138899386302921309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63468ecb46d3c7250800000000000000
+      internalID: 5943693111097582646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuma__Sneaking_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5219cbae066ff9840800000000000000
+      internalID: 5233172188143325477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d73c17112371d9f40ada2853f9fd04b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":55.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Yuma__Sneaking_Walk_0: 7943195953177717071
+      Yuma__Sneaking_Walk_1: -8435018924953432888
+      Yuma__Sneaking_Walk_10: -4110000142942779030
+      Yuma__Sneaking_Walk_11: 2406108028198978556
+      Yuma__Sneaking_Walk_12: 4915619425608569350
+      Yuma__Sneaking_Walk_13: -5907471708930228195
+      Yuma__Sneaking_Walk_14: 3382771145000820787
+      Yuma__Sneaking_Walk_15: -8362714171685127647
+      Yuma__Sneaking_Walk_16: 6540889861786890473
+      Yuma__Sneaking_Walk_17: -7124331983867754447
+      Yuma__Sneaking_Walk_18: -5732253345049677661
+      Yuma__Sneaking_Walk_19: 4618857249342439206
+      Yuma__Sneaking_Walk_2: 372933589397067842
+      Yuma__Sneaking_Walk_20: -5142468213519775551
+      Yuma__Sneaking_Walk_21: 4314161828657647057
+      Yuma__Sneaking_Walk_22: 1886378099718700491
+      Yuma__Sneaking_Walk_23: 5510506539277667104
+      Yuma__Sneaking_Walk_24: 4222152628904890417
+      Yuma__Sneaking_Walk_25: -3100368983013257534
+      Yuma__Sneaking_Walk_26: 5445036883322454450
+      Yuma__Sneaking_Walk_27: 8116462117865618693
+      Yuma__Sneaking_Walk_28: -1752446659711732627
+      Yuma__Sneaking_Walk_29: -5300829188033513906
+      Yuma__Sneaking_Walk_3: 2436610600673640577
+      Yuma__Sneaking_Walk_30: 2778319640738114875
+      Yuma__Sneaking_Walk_31: -2608818748845393377
+      Yuma__Sneaking_Walk_32: -5810001156705743076
+      Yuma__Sneaking_Walk_33: 3834664495985794533
+      Yuma__Sneaking_Walk_34: 1661866087132421879
+      Yuma__Sneaking_Walk_35: 7751232972201756188
+      Yuma__Sneaking_Walk_36: 3048180829064822602
+      Yuma__Sneaking_Walk_37: 793270313074515128
+      Yuma__Sneaking_Walk_38: -2446125294812824052
+      Yuma__Sneaking_Walk_39: -9208775511985425215
+      Yuma__Sneaking_Walk_4: -1946510283758926186
+      Yuma__Sneaking_Walk_40: 862614301837888571
+      Yuma__Sneaking_Walk_41: -4639931183470202705
+      Yuma__Sneaking_Walk_42: -774977669419524180
+      Yuma__Sneaking_Walk_43: 7081939802402168658
+      Yuma__Sneaking_Walk_44: -3029597424781812766
+      Yuma__Sneaking_Walk_45: 9138899386302921309
+      Yuma__Sneaking_Walk_46: 5943693111097582646
+      Yuma__Sneaking_Walk_47: 5233172188143325477
+      Yuma__Sneaking_Walk_5: 5605239289332859933
+      Yuma__Sneaking_Walk_6: 7117359454258783036
+      Yuma__Sneaking_Walk_7: -1059812427862830711
+      Yuma__Sneaking_Walk_8: -4846183482226926830
+      Yuma__Sneaking_Walk_9: 1484549461508866822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
