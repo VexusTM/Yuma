@@ -104,15 +104,15 @@ public class Player_Movement : MonoBehaviour
     {
         return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
     }
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerStay2D(Collider2D other)
     {
         if (other.CompareTag("Hide"))
         {
+            Debug.Log("In bushes");
             if (isCrouching)
             {
                 Debug.Log("is hidden");
             }
-            
         }
     }
 
