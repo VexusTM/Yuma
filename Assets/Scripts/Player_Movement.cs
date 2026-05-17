@@ -20,6 +20,8 @@ public class Player_Movement : MonoBehaviour
     [SerializeField] public bool isGrounded;
     [SerializeField] private Rigidbody2D rb;
     private bool isCrouching = false;
+    public Globallight script;
+    public Jajo jajo;
 
     private void Start()
     {
@@ -112,6 +114,55 @@ public class Player_Movement : MonoBehaviour
             if (isCrouching)
             {
                 Debug.Log("is hidden");
+            }
+        }
+        if (other.CompareTag("DayNightZone"))
+        {
+            if(Input.GetKey(KeyCode.E))
+            {
+                script.ChangeLight();
+            }
+        }
+        if (other.CompareTag("Jajo1"))
+        {
+            if (Input.GetKey(KeyCode.E))
+            {
+                jajo.Egg1_pickup();
+            }
+        }
+        if (other.CompareTag("Jajo2"))
+        {
+            if (Input.GetKey(KeyCode.E))
+            {
+                jajo.Egg2_pickup();
+            }
+        }
+        if (other.CompareTag("Jajo3"))
+        {
+            if (Input.GetKey(KeyCode.E))
+            {
+                jajo.Egg3_pickup();
+            }
+        }
+        if (other.CompareTag("Gniazdo1"))
+        {
+            if (Input.GetKey(KeyCode.E))
+            {
+                jajo.Egg1_PutDown();
+            }
+        }
+        if (other.CompareTag("Gniazdo2"))
+        {
+            if (Input.GetKey(KeyCode.E))
+            {
+                jajo.Egg2_PutDown();
+            }
+        }
+        if (other.CompareTag("Gniazdo3"))
+        {
+            if (Input.GetKey(KeyCode.E))
+            {
+                jajo.Egg3_PutDown();
             }
         }
     }

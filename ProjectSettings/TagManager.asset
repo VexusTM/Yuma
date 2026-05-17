@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 3
   tags:
   - Hide
+  - DayNightZone
+  - Gniazdo1
+  - Gniazdo2
+  - Gniazdo3
+  - Jajo2
+  - Jajo3
+  - Jajo1
   layers:
   - Default
   - TransparentFX
