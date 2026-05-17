@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 012203557b2be844a9ce2aa43b204117
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5649777074230395454
+    second: tricek_animacja_0
+  - first:
+      213: -3869371419971149027
+    second: tricek_animacja_1
+  - first:
+      213: 6693742654726817187
+    second: tricek_animacja_2
+  - first:
+      213: -643622846447810731
+    second: tricek_animacja_3
+  - first:
+      213: -6841573773894877805
+    second: tricek_animacja_4
+  - first:
+      213: 7032183028417583519
+    second: tricek_animacja_5
+  - first:
+      213: -6911046368888627198
+    second: tricek_animacja_6
+  - first:
+      213: 1018132199919687665
+    second: tricek_animacja_7
+  - first:
+      213: 1005400619262791540
+    second: tricek_animacja_8
+  - first:
+      213: 5431809853969318443
+    second: tricek_animacja_9
+  - first:
+      213: 6638539595659206541
+    second: tricek_animacja_10
+  - first:
+      213: 9115659845054055072
+    second: tricek_animacja_11
+  - first:
+      213: -7330042855525733071
+    second: tricek_animacja_12
+  - first:
+      213: -8455020204799190092
+    second: tricek_animacja_13
+  - first:
+      213: 7751729436826324663
+    second: tricek_animacja_14
+  - first:
+      213: -7361289592397159107
+    second: tricek_animacja_15
+  - first:
+      213: -2139190877420465837
+    second: tricek_animacja_16
+  - first:
+      213: 3767644740402341417
+    second: tricek_animacja_17
+  - first:
+      213: -3379539649750985289
+    second: tricek_animacja_18
+  - first:
+      213: -6334985778025413778
+    second: tricek_animacja_19
+  - first:
+      213: -8759443025664296170
+    second: tricek_animacja_20
+  - first:
+      213: 4868840971024309516
+    second: tricek_animacja_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tricek_animacja_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3206a1b05a086e40800000000000000
+      internalID: 5649777074230395454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 319
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d132290c13b3d4ac0800000000000000
+      internalID: -3869371419971149027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 319
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a54fd0ca73f4ec50800000000000000
+      internalID: 6693742654726817187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 319
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55707246e646117f0800000000000000
+      internalID: -643622846447810731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 319
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dfd5e96e8dd01a0800000000000000
+      internalID: -6841573773894877805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f995c5cc435579160800000000000000
+      internalID: 7032183028417583519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 240
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200e32c91f70710a0800000000000000
+      internalID: -6911046368888627198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7999e67d1212e00800000000000000
+      internalID: 1018132199919687665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 240
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fcd105986e3fd00800000000000000
+      internalID: 1005400619262791540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ce41884aa16b40800000000000000
+      internalID: 5431809853969318443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fd1aaf694d02c50800000000000000
+      internalID: 6638539595659206541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 161
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a24dbd0554518e70800000000000000
+      internalID: 9115659845054055072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 161
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dafffebd4764a90800000000000000
+      internalID: -7330042855525733071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 161
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb913c9bebb9aa80800000000000000
+      internalID: -8455020204799190092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 161
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec8f43adca39b60800000000000000
+      internalID: 7751729436826324663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3523641e1277d990800000000000000
+      internalID: -7361289592397159107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 82
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351d89c1b311052e0800000000000000
+      internalID: -2139190877420465837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 82
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926ec87fdec594430800000000000000
+      internalID: 3767644740402341417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 82
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b59e3818967911d0800000000000000
+      internalID: -3379539649750985289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 82
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63c4a3cffb9518a0800000000000000
+      internalID: -6334985778025413778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb1094af4307680800000000000000
+      internalID: -8759443025664296170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d95c12119919340800000000000000
+      internalID: 4868840971024309516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198753e983b2eb43a34885feb1bbe30
+      internalID: -119779478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tricek_animacja_23
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3
+        width: 132
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8331029923fb31347aa1cccdfa292bf4
+      internalID: 1057575854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0773f066363c58344ac75c48bb820ba4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":132.0,"y":79.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tricek_animacja_0: 5649777074230395454
+      tricek_animacja_1: -3869371419971149027
+      tricek_animacja_10: 6638539595659206541
+      tricek_animacja_11: 9115659845054055072
+      tricek_animacja_12: -7330042855525733071
+      tricek_animacja_13: -8455020204799190092
+      tricek_animacja_14: 7751729436826324663
+      tricek_animacja_15: -7361289592397159107
+      tricek_animacja_16: -2139190877420465837
+      tricek_animacja_17: 3767644740402341417
+      tricek_animacja_18: -3379539649750985289
+      tricek_animacja_19: -6334985778025413778
+      tricek_animacja_2: 6693742654726817187
+      tricek_animacja_20: -8759443025664296170
+      tricek_animacja_21: 4868840971024309516
+      tricek_animacja_22: -119779478
+      tricek_animacja_23: 1057575854
+      tricek_animacja_3: -643622846447810731
+      tricek_animacja_4: -6841573773894877805
+      tricek_animacja_5: 7032183028417583519
+      tricek_animacja_6: -6911046368888627198
+      tricek_animacja_7: 1018132199919687665
+      tricek_animacja_8: 1005400619262791540
+      tricek_animacja_9: 5431809853969318443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
